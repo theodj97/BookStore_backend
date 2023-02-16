@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "D82ENZbe/OTQTw7/Ua0FBks1X4+miKzKlaVXv7jYPPtpdQKdzXMLl4T8NQ0mck73XSPL6aXoDifAAWx4jkeuLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theod\\workspace\\dotnet\\BookStore\\BookStore\\BookStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theod\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

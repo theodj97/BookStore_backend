@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RpZVOdC19DcSluEA1nb/Ma4UVAYYWB2oHba6/kILb9fx8/bCiUUrVC/M0hJJE+FIVsXghmgKCS5usQPOPvVnfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\theod\\workspace\\dotnet\\BookStore\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\theod\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\theod\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
